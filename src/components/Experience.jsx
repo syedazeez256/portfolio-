@@ -30,7 +30,7 @@ const Experience = () => {
       className="bg-gradient-to-b from-gray-800 to-black w-full h-auto"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col justify-center w-full h-auto text-white">
-        <div className="mx-2">
+        <div className="mx-2 mt-24">
           <p className="text-4xl font-bold border-b-4 border-gray-500 inline py-2">
             Experience{" "}
           </p>
