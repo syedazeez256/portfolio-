@@ -6,8 +6,8 @@ const Contact = () => {
       name="contact"
       className="w-full h-auto bg-gradient-to-b from-black to-gray-800 p-4 text-white"
     >
-      <div className="flex flex-col justify-center p-4 max-w-screen-lg mx-auto h-full">
-        <div className="mt-20">
+      <div className="flex flex-col justify-center p-4 max-w-screen-lg mx-auto h-auto">
+        <div className="mt-16">
           <p className="text-4xl border-b-4 font-bold border-gray-500 inline">
             Contact
           </p>
